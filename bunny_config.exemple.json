@@ -1,0 +1,10 @@
+{
+  "storage_zone": "ma-zone",
+  "storage_endpoint": "https://storage.bunnycdn.com/ma-zone",
+  "storage_access_key": "",
+  "pull_zone": "ma-pull-zone",
+  "public_hostname": "koti.example.com",
+  "token_auth_security_key": "",
+  "remote_filename": "koti.html",
+  "token_validity_seconds": 94608000
+}

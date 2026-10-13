@@ -1,0 +1,26 @@
+{
+  "taches": [
+    {
+      "id": "lecture",
+      "titre": "Lire un chapitre",
+      "debut": "2026-01-01",
+      "heure_fixe": null,
+      "notes": ""
+    },
+    {
+      "id": "marche",
+      "titre": "Marche de midi",
+      "debut": "2026-01-01",
+      "heure_fixe": "12:00",
+      "notes": "Ne peut pas être cochée avant midi."
+    },
+    {
+      "id": "dessin",
+      "titre": "Dessin — session du jour",
+      "debut": "2026-01-01",
+      "heure_fixe": null,
+      "sans_serie": true,
+      "notes": "Suivi sans série : seul le nombre de sessions compte."
+    }
+  ]
+}
